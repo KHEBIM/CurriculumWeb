@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor {
+    width: 750px;
+    height: 1000px;
+    background-color: #C4C2C2;
+    margin: auto;
+    padding: 0.5em;
+}
+
+#header {
+    background-color: #7F0E07;
+    height: 23%;
+    border-radius: 1em;
+    display: flex right;
+}
+
+#foto {
+    background-color: black;
+    width: 160px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 16px;
+    float: left;
+}
+
+#nombre {
+    margin-top: 0px;
+    margin-left: 300px;
+    color: #E6E6E6;
+}
+
+#correo {
+    margin-top: 35px;
+    margin-left: 300px;
+    color: #E6E6E6;
+}
+
+#instagram {
+    margin-top: 30px;
+    margin-left: 300px;
+    color: #E6E6E6;
+}
+
+#celular {
+    margin-top: 50px;
+    margin-left: 300px;
+    color: #E6E6E6;
+}
+
+#bodyy {
+    width: 750px;
+    height: 760px;
+    background-color: white;
+    border-radius: 1em;
+}
+
+#habilidades {
+    color: black;
+    float: left;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+#Estudios {
+    color: black;
+    float: right;
+    margin-top: 20px;
+    margin-right: 70px;
+}
+
+#subHabilidades {
+    color: black;
+    float: left;
+    margin-top: 10px;
+    margin-right: 30%;
+    margin-left: 100px;
+}
+
+#subEstudios {
+    color: black;
+    float: right;
+    margin-top: 10px;
+    margin-right: 5%;
+}
+
+#quiensoy {
+    float: right;
+    margin-top: 80px;
+    margin-right: 67%;
+}
+#descripcion{
+    float: right;
+    margin-right: 240px;
+}
+#tabla{
+    float: right;
+    margin-top: 270px;
+    margin-right: 165px;
+    background-color: #7F0E07;
+    color: white;
+}
+#horario{
+    margin-top: -60px;
+    margin-right: 30px;
+    margin-left: 640px;
+    margin-bottom: 0px;
+}
